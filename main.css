@@ -1318,7 +1318,10 @@ svg[AttributesStyle] {
 .header-25{
     bottom: 93%;
 }
-
+.check-3{
+    margin-left: 5%;
+    width: max-content;
+}
 .check-5{
     display: none;
     overflow-y: scroll;
